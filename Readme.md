@@ -44,8 +44,8 @@ This git repository easilly share amongst different users.
 
 
 ### The Point To Be Made
-For local repository use: git init .
-For shared local repository use:<br/> git init --bare .
+For local repository use: git init .<br/>
+For shared local repository use: git init --bare .
 
 
 

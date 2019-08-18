@@ -4,7 +4,7 @@ My working workspace is at:<br/>
 
 
 ### Clone Remote Branch
-Gtmy working workspace tcreate a git project:<br/>
+Go tmy working workspace tcreate a git project:<br/>
 cd /mnt/FDEV/workspacegit
 
 Clone local repository:<br/>

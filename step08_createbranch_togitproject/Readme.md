@@ -85,6 +85,6 @@ We see:
 ..
 .git
 Readme.md
-</pre>>
+</pre>
 
 
